@@ -21,7 +21,7 @@ This project is my second endeavor in mechanical design, focusing on the develop
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. Any feedback or suggestions are welcome!
 
-## Acknowledgments
+## Images
 ![full2](https://github.com/user-attachments/assets/dff58cab-23a0-427a-ae22-721ddd217383)
 
 ![ful](https://github.com/user-attachments/assets/1f3eb1b9-7102-4f44-806f-1d9642423b86)
