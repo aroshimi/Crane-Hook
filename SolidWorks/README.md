@@ -15,3 +15,5 @@ The primary goal of this project is to enhance my skills in mechanical design, m
 - **Code**: Control algorithms and software used for crane hook operation (if applicable).
 - **Documentation**: Technical specifications, design documentation, and assembly instructions.
 - **Testing**: Results and data from tests and validation, including load-bearing analysis and stress tests.
+
+- ### Visuals
