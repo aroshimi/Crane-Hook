@@ -1,5 +1,7 @@
 # Crane Hook Project
 
+My crane hook project is currently in the final stages of completion, but there are still a few elements pending before it is fully finished.
+
 ## Overview
 This project is my second endeavor in mechanical design, focusing on the development of a crane hook. The crane hook is an essential component used in lifting and transporting heavy loads safely. This project highlights my growth in design skills and emphasizes mechanical design, materials selection, and testing to ensure the hook meets safety and performance standards.
 
